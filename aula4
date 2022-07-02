@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T23:59:09.886Z" agent="5.0 (Windows)" etag="a4ZfHbZX4Mm8kdwQgn_q" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-02T00:02:38.445Z" agent="5.0 (Windows)" etag="JDo2Kh69GJJjPo82g8HU" version="20.0.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1632" dy="1512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -621,12 +621,12 @@
         <mxCell id="a0YSEP8mmCMNqdNNnqhX-157" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="a0YSEP8mmCMNqdNNnqhX-156" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a0YSEP8mmCMNqdNNnqhX-158" value="PK,FK1" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="a0YSEP8mmCMNqdNNnqhX-157" vertex="1">
+        <mxCell id="a0YSEP8mmCMNqdNNnqhX-158" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="a0YSEP8mmCMNqdNNnqhX-157" vertex="1">
           <mxGeometry width="60" height="30" as="geometry">
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a0YSEP8mmCMNqdNNnqhX-159" value="Row 1" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="a0YSEP8mmCMNqdNNnqhX-157" vertex="1">
+        <mxCell id="a0YSEP8mmCMNqdNNnqhX-159" value="cnpj_fornecedor" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="a0YSEP8mmCMNqdNNnqhX-157" vertex="1">
           <mxGeometry x="60" width="120" height="30" as="geometry">
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -634,12 +634,12 @@
         <mxCell id="a0YSEP8mmCMNqdNNnqhX-160" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="a0YSEP8mmCMNqdNNnqhX-156" vertex="1">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a0YSEP8mmCMNqdNNnqhX-161" value="PK,FK2" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="a0YSEP8mmCMNqdNNnqhX-160" vertex="1">
+        <mxCell id="a0YSEP8mmCMNqdNNnqhX-161" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="a0YSEP8mmCMNqdNNnqhX-160" vertex="1">
           <mxGeometry width="60" height="30" as="geometry">
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a0YSEP8mmCMNqdNNnqhX-162" value="Row 2" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="a0YSEP8mmCMNqdNNnqhX-160" vertex="1">
+        <mxCell id="a0YSEP8mmCMNqdNNnqhX-162" value="cnpj editora" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="a0YSEP8mmCMNqdNNnqhX-160" vertex="1">
           <mxGeometry x="60" width="120" height="30" as="geometry">
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
